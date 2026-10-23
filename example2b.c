@@ -90,7 +90,7 @@ int main() {
 
   // initialize flag and turn
   // flag 1 means a program wants to enter
-  // turn holds the id of the thread whos turn it is
+  // turn holds the id of the thread whose turn it is
   turn = 0;
   flag[0] = 0;
   flag[1] = 0;
