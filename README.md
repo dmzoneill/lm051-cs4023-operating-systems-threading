@@ -1,5 +1,9 @@
 # CS4023 Operating Systems Threading
 
+<p align="center">
+  <img src=".github/logo.png" alt="lm051-cs4023-operating-systems-threading logo" width="128" />
+</p>
+
 C exercises on processes and threads for the CS4023 Operating Systems
 module, from the LM051 Computer Systems degree at the University of Limerick.
 
